@@ -2,33 +2,33 @@
 
 Originite wordpress template is a high-quality portfolio theme designed for agencies, studios or freelancers...
 
-[Demo] (http://demo.pcmshaper.com/wordpress/?theme=originite)
- | [Download] (http://www.pcmshaper.com/wordpress-themes/originite)
+[Demo] (http://wordpress.pcmshaper.com/?theme=originite)
+ | [Download] (https://pcmshaper.com/wordpress-themes/originite)
  
 # Photoite - Responsive Photography WordPress Theme
 
 Photoite is a responsive WordPress theme created for creative Photographers with a minimalist design...
 
-[Demo] (http://demo.pcmshaper.com/wordpress/?theme=photoite)
- | [Download] (http://www.pcmshaper.com/wordpress-themes/photoite)
+[Demo] (http://wordpress.pcmshaper.com/?theme=photoite)
+ | [Download] (https://pcmshaper.com/wordpress-themes/photoite)
   
 # Pinnaite - Responsive Pinterest WordPress Theme
 
 Pinnaite is Pinterest inspired WordPress theme that comes with full of style and customisation options...
 
-[Demo] (http://demo.pcmshaper.com/wordpress/?theme=pinnaite)
- | [Download] (http://www.pcmshaper.com/wordpress-themes/pinnaite)
+[Demo] (http://wordpress.pcmshaper.com/?theme=pinnaite)
+ | [Download] (https://pcmshaper.com/wordpress-themes/pinnaite)
    
 # Shopite - Responsive WooCommerce WordPress Theme
 
 Shopite is a dedicated WooCommerce shopfront theme for who ever wants to add some sweetness...
 
-[Demo] (http://demo.pcmshaper.com/wordpress/?theme=shopite)
- | [Download] (http://www.pcmshaper.com/wordpress-themes/shopite)
+[Demo] (http://wordpress.pcmshaper.com/?theme=shopite)
+ | [Download] (https://pcmshaper.com/wordpress-themes/shopite)
     
 # Oxite - Responsive Blog WordPress Theme
 
 Oxite is a simple, clean and modern WordPress theme for your Blog. It comes with custom widgets...
 
-[Demo] (http://demo.pcmshaper.com/wordpress/?theme=oxite)
- | [Download] (http://www.pcmshaper.com/wordpress-themes/oxite)
+[Demo] (http://wordpress.pcmshaper.com/?theme=oxite)
+ | [Download] (https://pcmshaper.com/wordpress-themes/oxite)
