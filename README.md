@@ -4,6 +4,7 @@ Originite wordpress template is a high-quality portfolio theme designed for agen
 
 [Demo] (http://wordpress.pcmshaper.com/?theme=originite)
  | [Download] (https://pcmshaper.com/wordpress-themes/originite)
+ | [Browse WordPress Themes] (https://pcmshaper.com/wordpress-themes)
  
 # Photoite - Responsive Photography WordPress Theme
 
