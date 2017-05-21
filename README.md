@@ -1,5 +1,7 @@
 # Originite - Responsive Portfolio WordPress Theme
 
+[![Join the chat at https://gitter.im/pcmshaper/WordPress-Themes](https://badges.gitter.im/pcmshaper/WordPress-Themes.svg)](https://gitter.im/pcmshaper/WordPress-Themes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Originite wordpress template is a high-quality portfolio theme designed for agencies, studios or freelancers...
 
 [Demo] (http://wordpress.pcmshaper.com/?theme=originite)
